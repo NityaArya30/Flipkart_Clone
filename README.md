@@ -7,6 +7,11 @@
  <img src="https://cdn.dribbble.com/users/1980856/screenshots/4760116/media/5021b87fb97e90b8f153a4480ffc615e.gif" alt="Flipkart Logo Animation" width="3800" height="450">
 </div>
 
+<div>
+  <h1>Description</h1>
+  <p>A Flipkart clone is a replica or imitation of the popular e-commerce platform Flipkart. It typically includes similar features and functionalities such as product listings, shopping cart, payment gateway integration, user accounts, order tracking, and seller dashboards. Developing a Flipkart clone involves creating a user-friendly interface, implementing secure payment options, and ensuring smooth navigation for users.</p>
+</div>
+
 <!-- Tech stack -->
 <div>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" />Tech Stack</h2>
